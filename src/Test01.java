@@ -8,7 +8,7 @@ public class Test01 {
 		System.out.println("炒飯");
 		System.out.println("プリン");
 		System.out.println("ラーメン");
-		
+		System.out.println("つけめん");
 	}
 
 }
