@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("焼きおにぎり");
 		System.out.println("炒飯");
 		System.out.println("プリン");
+		System.out.println("ラーメン");
 		
 	}
 
